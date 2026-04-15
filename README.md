@@ -1,4 +1,4 @@
-# 📊 Data Engineering Experience – AmerisourceBergen (May 2013– Sep 2015)
+# 📊 Data Engineering Experience – AmerisourceBergen (May 2013 – Sep 2015)
 
 ## 🏢 Organization  
 Client: AmerisourceBergen  
